@@ -1,0 +1,4 @@
+login,empreinte,staff_id,nom_complet,roles,actif
+admin,f545470435c7ebb940f6b5bc0211f1f7$fc33ce414aa9145cbe0e2febddcbd5bb1f090fc3ccb38da83f33c48c6393e16f,,Administrateur,Admin,Oui
+jsamba,da458820c4936b07de740eea24c7cb2b$8b64d9b2b3d4260e7f212c7de7a9701981b6820d717bd166cf3335930dec2815,10027848,Japhet SAMBA,"Approbateur,Admin",Oui
+masambou,b852d82c843daa4d542439dc919bf4dd$ecc003fd5f5792c43243f67fdbc7cc31c78480c63a4b6a8aa2856e80072ae175,10027846,Marc Clément Désiré Sambou,"Gestionnaire,Admin",Oui

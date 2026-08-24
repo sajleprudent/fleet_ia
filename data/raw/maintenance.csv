@@ -1,0 +1,495 @@
+maintenance_id,vehicule_id,date,type_intervention,categorie,cout_fcfa,jours_immobilisation,km_compteur
+MT-00001,AA-155-QY,2023-08-15,Entretien préventif,Vidange/Révision,34529,1,26
+MT-00002,WV-IT-517,2023-08-18,Entretien préventif,Vidange/Révision,75031,1,257
+MT-00003,WV-IT-575,2023-08-22,Entretien préventif,Vidange/Révision,102707,1,588
+MT-00004,AA-968-NW,2023-08-24,Entretien préventif,Vidange/Révision,25000,1,52
+MT-00005,WV-IT-529,2023-08-30,Entretien préventif,Vidange/Révision,56890,1,1256
+MT-00006,WVIT-702,2023-09-04,Entretien préventif,Vidange/Révision,93496,1,2684
+MT-00007,WV-IT-552,2023-09-06,Entretien préventif,Vidange/Révision,91332,1,407
+MT-00008,WV-IT-687,2023-09-06,Entretien préventif,Vidange/Révision,25000,1,266
+MT-00009,AA-858-QG,2023-09-07,Entretien préventif,Vidange/Révision,41934,1,140
+MT-00010,WVIT-701,2023-09-12,Entretien préventif,Vidange/Révision,119289,1,2672
+MT-00011,WV-IT-574,2023-09-18,Entretien préventif,Vidange/Révision,92246,1,1705
+MT-00012,WVIT-700,2023-09-19,Entretien préventif,Vidange/Révision,64524,1,1393
+MT-00013,WV-IT-564,2023-09-20,Entretien préventif,Vidange/Révision,79647,1,2216
+MT-00014,WV-IT-567,2023-09-21,Entretien préventif,Vidange/Révision,113820,1,2318
+MT-00015,AA-284-TE,2023-09-21,Entretien préventif,Vidange/Révision,25000,1,209
+MT-00016,AA-834-QG,2023-09-26,Entretien préventif,Vidange/Révision,25000,1,345
+MT-00017,AA-903-QG,2023-09-28,Panne,Embrayage/Transmission,574814,6,404
+MT-00018,WV-IT-693,2023-09-27,Entretien préventif,Vidange/Révision,81932,1,3172
+MT-00019,AA-888-QG,2023-09-29,Entretien préventif,Vidange/Révision,25000,1,568
+MT-00020,AA-657-NW,2023-09-30,Entretien préventif,Vidange/Révision,29894,1,421
+MT-00021,AA-733-NW,2023-09-30,Entretien préventif,Vidange/Révision,33446,1,160
+MT-00022,WV-IT-561,2023-10-02,Entretien préventif,Vidange/Révision,83764,1,2986
+MT-00023,AA-833-RH,2023-10-05,Entretien préventif,Vidange/Révision,25000,1,501
+MT-00024,WV-IT-692,2023-10-06,Entretien préventif,Vidange/Révision,116207,1,1293
+MT-00025,WVIT694,2023-10-07,Panne,Moteur,1061937,7,2292
+MT-00026,WV-IT-691,2023-10-10,Entretien préventif,Vidange/Révision,88748,1,2751
+MT-00027,WV-IT-568,2023-10-12,Entretien préventif,Vidange/Révision,97214,1,2910
+MT-00028,WV-IT-686,2023-10-14,Panne,Moteur,770704,9,643
+MT-00029,AA-288-QK,2023-10-20,Entretien préventif,Vidange/Révision,25000,1,749
+MT-00030,987297,2023-10-24,Entretien préventif,Vidange/Révision,45838,1,556
+MT-00031,WVIT694,2023-10-25,Entretien préventif,Vidange/Révision,96313,1,3735
+MT-00032,WV-IT-690,2023-10-29,Entretien préventif,Vidange/Révision,25000,1,773
+MT-00033,WV-IT-552,2023-10-31,Panne,Pneumatique,125147,1,2991
+MT-00034,WV-IT-514,2023-10-31,Entretien préventif,Vidange/Révision,101061,1,4279
+MT-00035,AA-340-QK,2023-11-02,Panne,Freinage,120752,2,385
+MT-00036,WV-IT-569,2023-11-07,Entretien préventif,Vidange/Révision,84370,1,2444
+MT-00037,WV-IT-551,2023-11-08,Entretien préventif,Vidange/Révision,75666,1,4292
+MT-00038,AA-299-TE,2023-11-15,Panne,Pneumatique,136024,2,871
+MT-00039,WV-IT-570,2023-11-16,Entretien préventif,Vidange/Révision,28696,1,518
+MT-00040,AA-210-PJ,2023-11-18,Entretien préventif,Vidange/Révision,43359,1,1052
+MT-00041,AA-907-QG,2023-11-18,Entretien préventif,Vidange/Révision,59630,1,838
+MT-00042,WV-IT-571,2023-11-23,Entretien préventif,Vidange/Révision,30500,1,858
+MT-00043,WVIT-702,2023-11-24,Entretien préventif,Vidange/Révision,79367,1,7883
+MT-00044,WVIT-699,2023-11-24,Entretien préventif,Vidange/Révision,77999,1,4255
+MT-00045,AA-949-QX,2023-11-28,Entretien préventif,Vidange/Révision,25000,1,901
+MT-00046,WV-IT-529,2023-11-28,Entretien préventif,Vidange/Révision,85530,1,6539
+MT-00047,WV-IT-567,2023-11-29,Entretien préventif,Vidange/Révision,104995,1,7345
+MT-00048,WV-IT-663,2023-11-30,Entretien préventif,Vidange/Révision,25000,1,1239
+MT-00049,WVIT-576,2023-11-30,Entretien préventif,Vidange/Révision,96262,1,3534
+MT-00050,WV-IT-680,2023-12-01,Entretien préventif,Vidange/Révision,91470,1,2493
+MT-00051,AA-728-RH,2023-12-01,Entretien préventif,Vidange/Révision,51371,1,1150
+MT-00052,WVIT-701,2023-12-06,Entretien préventif,Vidange/Révision,78648,1,7927
+MT-00053,WV-IT-604,2023-12-07,Entretien préventif,Vidange/Révision,38734,1,1112
+MT-00054,WV-IT-574,2023-12-08,Entretien préventif,Vidange/Révision,53487,1,7018
+MT-00055,WV-IT-578,2023-12-09,Panne,Électrique/Batterie,43748,1,1020
+MT-00056,WV-IT-564,2023-12-08,Entretien préventif,Vidange/Révision,89992,1,7351
+MT-00057,AA-423-NX,2023-12-15,Panne,Freinage,178125,1,993
+MT-00058,WV-IT-691,2023-12-15,Entretien préventif,Vidange/Révision,81268,1,7913
+MT-00059,WV-IT-688,2023-12-18,Entretien préventif,Vidange/Révision,26038,1,887
+MT-00060,AA-885-QG,2023-12-19,Entretien préventif,Vidange/Révision,25000,1,1221
+MT-00061,WV-IT-703,2023-12-22,Entretien préventif,Vidange/Révision,69854,1,4207
+MT-00062,WV-321,2023-12-23,Entretien préventif,Vidange/Révision,76837,1,3731
+MT-00063,AA-892-QG,2023-12-27,Entretien préventif,Vidange/Révision,25000,1,1295
+MT-00064,WV-IT-561,2024-01-03,Entretien préventif,Vidange/Révision,100985,1,8187
+MT-00065,WVIT-700,2024-01-03,Entretien préventif,Vidange/Révision,95175,1,6420
+MT-00066,WV-IT-552,2024-01-09,Entretien préventif,Vidange/Révision,95777,1,5615
+MT-00067,WV-IT-693,2024-01-10,Entretien préventif,Vidange/Révision,115791,1,8207
+MT-00068,AA-865-QG,2024-01-13,Panne,Électrique/Batterie,88238,1,1315
+MT-00069,WV-IT-575,2024-01-17,Entretien préventif,Vidange/Révision,95536,1,5893
+MT-00070,WVIT-699,2024-01-20,Entretien préventif,Vidange/Révision,87882,1,9322
+MT-00071,WV-IT-534,2024-01-24,Entretien préventif,Vidange/Révision,64117,1,4849
+MT-00072,AA-902-QG,2024-01-24,Entretien préventif,Vidange/Révision,25000,1,1132
+MT-00073,WV-IT-514,2024-01-30,Panne,Pneumatique,111553,1,8700
+MT-00074,AA-831-RH,2024-02-02,Entretien préventif,Vidange/Révision,45118,1,1421
+MT-00075,WV-IT-514,2024-02-08,Entretien préventif,Vidange/Révision,60477,1,9302
+MT-00076,WVIT-702,2024-02-10,Entretien préventif,Vidange/Révision,90370,1,13207
+MT-00077,WV-IT-529,2024-02-11,Entretien préventif,Vidange/Révision,44480,1,11787
+MT-00078,WV-IT-527,2024-02-13,Entretien préventif,Vidange/Révision,107048,1,4929
+MT-00079,WV-IT-665,2024-02-14,Entretien préventif,Vidange/Révision,52107,1,1909
+MT-00080,WV-IT-517,2024-02-15,Entretien préventif,Vidange/Révision,92868,1,5314
+MT-00081,AA-737-NW,2024-02-17,Entretien préventif,Vidange/Révision,38454,1,1161
+MT-00082,WV-IT-603,2024-02-20,Entretien préventif,Vidange/Révision,30746,1,1356
+MT-00083,WV-IT-578,2024-02-21,Entretien préventif,Vidange/Révision,25000,1,1517
+MT-00084,AA-425-NX,2024-02-21,Entretien préventif,Vidange/Révision,34697,1,1626
+MT-00085,AA-897-QG,2024-02-23,Entretien préventif,Vidange/Révision,25000,1,1673
+MT-00086,WVIT-681,2024-02-23,Entretien préventif,Vidange/Révision,41336,1,3914
+MT-00087,WV-IT-575,2024-02-29,Panne,Embrayage/Transmission,604740,5,8555
+MT-00088,WV-IT-568,2024-03-01,Entretien préventif,Vidange/Révision,71664,1,8073
+MT-00089,WVIT-701,2024-03-05,Entretien préventif,Vidange/Révision,59984,1,13036
+MT-00090,WVTEST3,2024-03-06,Entretien préventif,Vidange/Révision,75646,1,4382
+MT-00091,WVIT694,2024-03-07,Entretien préventif,Vidange/Révision,86642,1,8867
+MT-00092,WV-IT-551,2024-03-08,Entretien préventif,Vidange/Révision,92990,1,9385
+MT-00093,AA-840-QG,2024-03-09,Entretien préventif,Vidange/Révision,39643,1,1633
+MT-00094,AA-934-QX,2024-03-09,Entretien préventif,Vidange/Révision,25000,1,1731
+MT-00095,WV-IT-564,2024-03-09,Entretien préventif,Vidange/Révision,117114,1,12437
+MT-00096,WV-IT-661,2024-03-13,Entretien préventif,Vidange/Révision,41820,1,1901
+MT-00097,AA-986-QX,2024-03-16,Entretien préventif,Vidange/Révision,29021,1,1709
+MT-00098,AA-891-QG,2024-03-16,Entretien préventif,Vidange/Révision,37488,1,1663
+MT-00099,WV-IT-692,2024-03-21,Entretien préventif,Vidange/Révision,98431,1,6402
+MT-00100,WV-IT-691,2024-03-21,Entretien préventif,Vidange/Révision,57418,1,13108
+MT-00101,WV-IT-561,2024-03-22,Entretien préventif,Vidange/Révision,65650,1,13301
+MT-00102,WV-IT-567,2024-03-27,Entretien préventif,Vidange/Révision,111615,1,12489
+MT-00103,WV-IT-574,2024-03-29,Entretien préventif,Vidange/Révision,57935,1,12042
+MT-00104,WV-IT-633,2024-03-30,Entretien préventif,Vidange/Révision,51389,1,1876
+MT-00105,AA-746-NW,2024-04-02,Entretien préventif,Vidange/Révision,62783,1,1951
+MT-00106,WVIT-699,2024-04-05,Entretien préventif,Vidange/Révision,101749,1,14368
+MT-00107,AA-336-QK,2024-04-11,Entretien préventif,Vidange/Révision,25000,1,2202
+MT-00108,WVIT-700,2024-04-15,Entretien préventif,Vidange/Révision,93739,1,11648
+MT-00109,WV-IT-660,2024-04-17,Entretien préventif,Vidange/Révision,35533,1,1885
+MT-00110,WV-IT-686,2024-04-19,Entretien préventif,Vidange/Révision,25000,1,2196
+MT-00111,WV-IT-569,2024-04-23,Entretien préventif,Vidange/Révision,101691,1,7457
+MT-00112,AA-735-NW,2024-04-23,Entretien préventif,Vidange/Révision,52843,1,2611
+MT-00113,WV-IT-575,2024-04-24,Entretien préventif,Vidange/Révision,81132,1,11242
+MT-00114,AA-373-QK,2024-04-25,Entretien préventif,Vidange/Révision,25000,1,2189
+MT-00115,WVIT-702,2024-04-28,Entretien préventif,Vidange/Révision,79567,1,18282
+MT-00116,AA-752-NW,2024-05-02,Entretien préventif,Vidange/Révision,25000,1,2084
+MT-00117,987297,2024-05-04,Panne,Moteur,656002,7,2013
+MT-00118,AA-340-QK,2024-05-07,Entretien préventif,Vidange/Révision,51352,1,1678
+MT-00119,WV-IT-703,2024-05-07,Entretien préventif,Vidange/Révision,90704,1,9299
+MT-00120,WV-IT-693,2024-05-08,Entretien préventif,Vidange/Révision,115622,1,13220
+MT-00121,AA-665-QG,2024-05-10,Entretien préventif,Vidange/Révision,32147,1,2297
+MT-00122,WV-IT-529,2024-05-14,Entretien préventif,Vidange/Révision,87778,1,16981
+MT-00123,AA-280-QK,2024-05-17,Entretien préventif,Vidange/Révision,27726,1,2239
+MT-00124,WV-IT-552,2024-05-21,Entretien préventif,Vidange/Révision,62185,1,10705
+MT-00125,WV-IT-561,2024-05-21,Entretien préventif,Vidange/Révision,109586,1,18524
+MT-00126,AA-284-QK,2024-05-21,Entretien préventif,Vidange/Révision,31144,1,2234
+MT-00127,WV-321,2024-05-23,Entretien préventif,Vidange/Révision,118020,1,8778
+MT-00128,AA-739-NW,2024-05-24,Entretien préventif,Vidange/Révision,25000,1,2001
+MT-00129,WV-IT-685,2024-05-25,Entretien préventif,Vidange/Révision,25000,1,2516
+MT-00130,WV-IT-568,2024-05-29,Entretien préventif,Vidange/Révision,85437,1,13181
+MT-00131,WV-IT-514,2024-05-29,Entretien préventif,Vidange/Révision,92877,1,14401
+MT-00132,AA-905-QG,2024-05-30,Entretien préventif,Vidange/Révision,25000,1,2298
+MT-00133,WVIT694,2024-05-30,Entretien préventif,Vidange/Révision,85194,1,13943
+MT-00134,WVIT-576,2024-06-11,Entretien préventif,Vidange/Révision,91357,1,8607
+MT-00135,WVIT-701,2024-06-11,Entretien préventif,Vidange/Révision,96002,1,18360
+MT-00136,WV-IT-662,2024-06-12,Entretien préventif,Vidange/Révision,38807,1,2436
+MT-00137,WV-IT-567,2024-06-13,Entretien préventif,Vidange/Révision,93342,1,17515
+MT-00138,WV-IT-564,2024-06-14,Entretien préventif,Vidange/Révision,71426,1,17468
+MT-00139,AA-683-NW,2024-06-14,Entretien préventif,Vidange/Révision,25000,1,2577
+MT-00140,WV-IT-568,2024-06-19,Panne,Moteur,648342,9,13665
+MT-00141,WV-IT-680,2024-06-27,Entretien préventif,Vidange/Révision,79215,1,7550
+MT-00142,AA-423-NX,2024-07-07,Entretien préventif,Vidange/Révision,25000,1,2548
+MT-00143,WV-IT-691,2024-07-08,Entretien préventif,Vidange/Révision,74511,1,18215
+MT-00144,WV-IT-551,2024-07-09,Entretien préventif,Vidange/Révision,97482,1,14424
+MT-00145,AA-973-NW,2024-07-13,Entretien préventif,Vidange/Révision,25000,1,2920
+MT-00146,WVIT-702,2024-07-13,Entretien préventif,Vidange/Révision,85282,1,23605
+MT-00147,AA-345-QK,2024-07-16,Entretien préventif,Vidange/Révision,25000,1,2731
+MT-00148,WV-IT-534,2024-07-17,Entretien préventif,Vidange/Révision,76853,1,9968
+MT-00149,AA-881-QG,2024-07-20,Entretien préventif,Vidange/Révision,39213,1,2682
+MT-00150,WV-IT-602,2024-07-20,Entretien préventif,Vidange/Révision,25000,1,2542
+MT-00151,WV-IT-529,2024-07-25,Panne,Électrique/Batterie,99864,2,22161
+MT-00152,WV-IT-574,2024-07-25,Entretien préventif,Vidange/Révision,111301,1,17089
+MT-00153,987298,2024-07-27,Panne,Moteur,1088058,6,2460
+MT-00154,WV-IT-527,2024-07-27,Entretien préventif,Vidange/Révision,87583,1,9965
+MT-00155,WV-IT-529,2024-07-28,Entretien préventif,Vidange/Révision,101347,1,22161
+MT-00156,AA-846-QG,2024-07-29,Entretien préventif,Vidange/Révision,25000,1,3191
+MT-00157,WV-IT-637,2024-08-02,Entretien préventif,Vidange/Révision,54593,1,2949
+MT-00158,AA-218-QX,2024-08-09,Entretien préventif,Vidange/Révision,45220,1,3408
+MT-00159,AA-170-QY,2024-08-09,Entretien préventif,Vidange/Révision,37474,1,2987
+MT-00160,WVIT-700,2024-08-09,Entretien préventif,Vidange/Révision,84672,1,16704
+MT-00161,WV-IT-680,2024-08-15,Panne,Moteur,814056,7,8719
+MT-00162,WV-IT-639,2024-08-16,Entretien préventif,Vidange/Révision,34074,1,2585
+MT-00163,WV-IT-572,2024-08-17,Entretien préventif,Vidange/Révision,31330,1,3160
+MT-00164,WV-IT-552,2024-08-20,Entretien préventif,Vidange/Révision,107767,1,15941
+MT-00165,AA-299-TE,2024-08-20,Entretien préventif,Vidange/Révision,32666,1,3146
+MT-00166,WV-IT-693,2024-08-20,Entretien préventif,Vidange/Révision,88079,1,18535
+MT-00167,987298,2024-08-22,Entretien préventif,Vidange/Révision,31694,1,2700
+MT-00168,WV-IT-575,2024-08-24,Entretien préventif,Vidange/Révision,102550,1,16555
+MT-00169,AA-865-QG,2024-08-28,Entretien préventif,Vidange/Révision,25000,1,2953
+MT-00170,WVIT-699,2024-08-28,Entretien préventif,Vidange/Révision,110804,1,19503
+MT-00171,WVIT-576,2024-09-10,Panne,Embrayage/Transmission,659044,6,11033
+MT-00172,WV-IT-517,2024-09-10,Entretien préventif,Vidange/Révision,76203,1,10365
+MT-00173,WVTEST3,2024-09-10,Entretien préventif,Vidange/Révision,94028,1,9493
+MT-00174,WV-IT-514,2024-09-11,Entretien préventif,Vidange/Révision,86253,1,19611
+MT-00175,AA-903-QG,2024-09-12,Entretien préventif,Vidange/Révision,25000,1,3564
+MT-00176,WV-IT-640,2024-09-21,Entretien préventif,Vidange/Révision,50507,1,2774
+MT-00177,AA-240-PJ,2024-09-25,Entretien préventif,Vidange/Révision,51903,1,3369
+MT-00178,AA-941-QX,2024-09-26,Entretien préventif,Vidange/Révision,48674,1,2865
+MT-00179,WV-IT-561,2024-09-27,Entretien préventif,Vidange/Révision,98582,1,23697
+MT-00180,WV-IT-564,2024-10-01,Entretien préventif,Vidange/Révision,69764,1,22549
+MT-00181,WV-IT-585,2024-10-02,Entretien préventif,Vidange/Révision,46074,1,3653
+MT-00182,WVIT694,2024-10-02,Entretien préventif,Vidange/Révision,80398,1,18979
+MT-00183,WV-IT-568,2024-10-08,Entretien préventif,Vidange/Révision,95149,1,18213
+MT-00184,WVIT-701,2024-10-08,Entretien préventif,Vidange/Révision,86401,1,23615
+MT-00185,AA-748-NW,2024-10-11,Entretien préventif,Vidange/Révision,53774,1,3627
+MT-00186,AA-814-QG,2024-10-13,Entretien préventif,Vidange/Révision,34764,1,3854
+MT-00187,WV-IT-567,2024-10-16,Entretien préventif,Vidange/Révision,90449,1,22528
+MT-00188,WV-IT-689,2024-10-16,Entretien préventif,Vidange/Révision,25000,1,3357
+MT-00189,WV-IT-529,2024-10-17,Entretien préventif,Vidange/Révision,73822,1,27230
+MT-00190,WV-IT-692,2024-10-18,Entretien préventif,Vidange/Révision,115842,1,11433
+MT-00191,WV-IT-691,2024-10-18,Entretien préventif,Vidange/Révision,71648,1,23274
+MT-00192,WV-IT-565,2024-10-18,Entretien préventif,Vidange/Révision,34280,1,3456
+MT-00193,WV-IT-574,2024-10-24,Entretien préventif,Vidange/Révision,73107,1,22141
+MT-00194,WV-IT-551,2024-10-29,Entretien préventif,Vidange/Révision,101681,1,19578
+MT-00195,WVIT-681,2024-10-29,Entretien préventif,Vidange/Révision,106017,1,9059
+MT-00196,WV-IT-569,2024-10-31,Entretien préventif,Vidange/Révision,82304,1,12550
+MT-00197,WV-IT-703,2024-11-02,Entretien préventif,Vidange/Révision,69689,1,14306
+MT-00198,WVIT-702,2024-11-03,Entretien préventif,Vidange/Révision,104585,1,28915
+MT-00199,WVIT-699,2024-11-06,Entretien préventif,Vidange/Révision,85647,1,24659
+MT-00200,WV-IT-638,2024-11-07,Entretien préventif,Vidange/Révision,25000,1,3471
+MT-00201,AA-286-TE,2024-11-12,Entretien préventif,Vidange/Révision,25000,1,3590
+MT-00202,WV-IT-636,2024-11-13,Entretien préventif,Vidange/Révision,27210,1,3307
+MT-00203,AA-728-NW,2024-11-15,Entretien préventif,Vidange/Révision,35363,1,3626
+MT-00204,AA-979-QX,2024-11-16,Entretien préventif,Vidange/Révision,25000,1,3408
+MT-00205,AA-658-NW,2024-11-16,Entretien préventif,Vidange/Révision,31391,1,4177
+MT-00206,WVIT-576,2024-11-16,Entretien préventif,Vidange/Révision,84037,1,13682
+MT-00207,WV-IT-692,2024-11-19,Panne,Freinage,248790,2,12185
+MT-00208,AA-242-PJ,2024-11-20,Entretien préventif,Vidange/Révision,37718,1,4054
+MT-00209,WVIT-700,2024-11-20,Entretien préventif,Vidange/Révision,66651,1,21868
+MT-00210,AA-488-QH,2024-11-21,Entretien préventif,Vidange/Révision,39448,1,3532
+MT-00211,AA-951-QX,2024-11-22,Entretien préventif,Vidange/Révision,25000,1,4188
+MT-00212,WV-IT-693,2024-11-22,Entretien préventif,Vidange/Révision,73501,1,23807
+MT-00213,AA-278-QK,2024-11-23,Entretien préventif,Vidange/Révision,36575,1,3780
+MT-00214,WV-IT-568,2024-11-27,Panne,Électrique/Batterie,62920,1,21838
+MT-00215,WV-IT-575,2024-11-26,Entretien préventif,Vidange/Révision,58468,1,21826
+MT-00216,WV-IT-664,2024-11-28,Entretien préventif,Vidange/Révision,41949,1,3482
+MT-00217,WV-IT-599,2024-11-29,Entretien préventif,Vidange/Révision,37893,1,3690
+MT-00218,WV-IT-552,2024-12-03,Entretien préventif,Vidange/Révision,88016,1,21165
+MT-00219,WV-IT-514,2024-12-04,Entretien préventif,Vidange/Révision,74598,1,24798
+MT-00220,AA-471-NX,2024-12-09,Entretien préventif,Vidange/Révision,25000,1,4502
+MT-00221,AA-908-QG,2024-12-12,Entretien préventif,Vidange/Révision,39208,1,4024
+MT-00222,WV-IT-582,2024-12-14,Entretien préventif,Vidange/Révision,47859,1,4474
+MT-00223,WVIT694,2024-12-20,Entretien préventif,Vidange/Révision,65731,1,24142
+MT-00224,WV-IT-568,2024-12-21,Entretien préventif,Vidange/Révision,110705,1,23431
+MT-00225,WV-321,2024-12-21,Entretien préventif,Vidange/Révision,45175,1,13894
+MT-00226,WV-IT-561,2024-12-24,Entretien préventif,Vidange/Révision,97233,1,28823
+MT-00227,WV-IT-564,2025-01-01,Entretien préventif,Vidange/Révision,105149,1,27561
+MT-00228,WVIT-701,2025-01-01,Entretien préventif,Vidange/Révision,71674,1,28925
+MT-00229,WV-IT-517,2025-01-04,Entretien préventif,Vidange/Révision,120418,1,15515
+MT-00230,WV-IT-564,2025-01-10,Panne,Freinage,196337,1,28218
+MT-00231,WV-IT-529,2025-01-08,Entretien préventif,Vidange/Révision,81234,1,32355
+MT-00232,AA-369-QX,2025-01-17,Entretien préventif,Vidange/Révision,25000,1,3912
+MT-00233,WV-IT-680,2025-01-20,Entretien préventif,Vidange/Révision,89158,1,12613
+MT-00234,WV-IT-691,2025-01-22,Entretien préventif,Vidange/Révision,102051,1,28412
+MT-00235,AA-983-NW,2025-01-28,Entretien préventif,Vidange/Révision,27456,1,4211
+MT-00236,WV-IT-551,2025-01-31,Entretien préventif,Vidange/Révision,87608,1,24598
+MT-00237,AA-340-QK,2025-02-01,Panne,Pneumatique,127095,1,3547
+MT-00238,81787,2025-02-05,Entretien préventif,Vidange/Révision,25000,1,4115
+MT-00239,AA-742-NW,2025-02-05,Entretien préventif,Vidange/Révision,40951,1,4130
+MT-00240,WV-IT-567,2025-02-06,Entretien préventif,Vidange/Révision,63618,1,27611
+MT-00241,WVIT-702,2025-02-07,Entretien préventif,Vidange/Révision,85267,1,34115
+MT-00242,WVIT-700,2025-02-08,Entretien préventif,Vidange/Révision,76146,1,26933
+MT-00243,WVIT-699,2025-02-20,Entretien préventif,Vidange/Révision,79990,1,29763
+MT-00244,WV-IT-527,2025-02-22,Entretien préventif,Vidange/Révision,76779,1,15006
+MT-00245,WV-IT-574,2025-02-23,Entretien préventif,Vidange/Révision,115505,1,27370
+MT-00246,WV-IT-687,2025-02-25,Entretien préventif,Vidange/Révision,25000,1,5294
+MT-00247,WV-IT-575,2025-03-05,Entretien préventif,Vidange/Révision,85865,1,27035
+MT-00248,AA-126-QX,2025-03-06,Entretien préventif,Vidange/Révision,45171,1,4227
+MT-00249,WV-IT-579,2025-03-12,Entretien préventif,Vidange/Révision,35185,1,4378
+MT-00250,AA-497-QG,2025-03-12,Entretien préventif,Vidange/Révision,25000,1,4300
+MT-00251,AA-858-QG,2025-03-14,Entretien préventif,Vidange/Révision,25000,1,5190
+MT-00252,WV-IT-514,2025-03-16,Entretien préventif,Vidange/Révision,96824,1,30042
+MT-00253,WV-IT-561,2025-03-16,Entretien préventif,Vidange/Révision,81592,1,34015
+MT-00254,WV-IT-684,2025-03-17,Entretien préventif,Vidange/Révision,35932,1,4592
+MT-00255,WV-IT-564,2025-03-18,Entretien préventif,Vidange/Révision,86690,1,32649
+MT-00256,WV-IT-693,2025-03-18,Entretien préventif,Vidange/Révision,98442,1,28970
+MT-00257,WVIT-701,2025-03-18,Entretien préventif,Vidange/Révision,113058,1,33975
+MT-00258,WV-IT-534,2025-03-19,Entretien préventif,Vidange/Révision,83183,1,15058
+MT-00259,WVTEST3,2025-03-20,Entretien préventif,Vidange/Révision,90666,1,14494
+MT-00260,AA-744-NW,2025-03-20,Entretien préventif,Vidange/Révision,25000,1,4853
+MT-00261,AA-833-RH,2025-03-28,Entretien préventif,Vidange/Révision,43415,1,5526
+MT-00262,AA-290-TE,2025-04-08,Entretien préventif,Vidange/Révision,26835,1,4868
+MT-00263,WV-IT-552,2025-04-09,Entretien préventif,Vidange/Révision,101850,1,26445
+MT-00264,WV-IT-691,2025-04-09,Entretien préventif,Vidange/Révision,101670,1,33434
+MT-00265,WV-IT-568,2025-04-11,Entretien préventif,Vidange/Révision,82592,1,28481
+MT-00266,AA-968-NW,2025-04-11,Entretien préventif,Vidange/Révision,25000,1,5057
+MT-00267,WV-IT-567,2025-04-19,Panne,Freinage,161612,2,31480
+MT-00268,WVIT694,2025-04-18,Entretien préventif,Vidange/Révision,65993,1,29261
+MT-00269,AA-283-QK,2025-04-19,Entretien préventif,Vidange/Révision,49769,1,4440
+MT-00270,WVIT-699,2025-04-19,Entretien préventif,Vidange/Révision,69969,1,34835
+MT-00271,WV-IT-690,2025-04-22,Entretien préventif,Vidange/Révision,25000,1,5811
+MT-00272,AA-945-QX,2025-04-26,Entretien préventif,Vidange/Révision,25000,1,4731
+MT-00273,WV-IT-529,2025-04-26,Entretien préventif,Vidange/Révision,73618,1,37582
+MT-00274,WV-IT-569,2025-04-29,Entretien préventif,Vidange/Révision,97558,1,17564
+MT-00275,AA-853-QG,2025-04-29,Entretien préventif,Vidange/Révision,52455,1,4922
+MT-00276,AA-284-TE,2025-05-01,Entretien préventif,Vidange/Révision,43165,1,5222
+MT-00277,WV-IT-692,2025-05-08,Entretien préventif,Vidange/Révision,75310,1,16555
+MT-00278,WVIT-700,2025-05-10,Entretien préventif,Vidange/Révision,105996,1,32038
+MT-00279,AA-657-NW,2025-05-11,Entretien préventif,Vidange/Révision,29476,1,5426
+MT-00280,AA-897-QG,2025-05-13,Panne,Climatisation,126451,1,5366
+MT-00281,WV-IT-529,2025-05-14,Panne,Électrique/Batterie,133878,1,38770
+MT-00282,WV-IT-551,2025-05-14,Entretien préventif,Vidange/Révision,86871,1,29631
+MT-00283,WV-IT-703,2025-05-15,Entretien préventif,Vidange/Révision,78345,1,19382
+MT-00284,WV-IT-575,2025-05-17,Entretien préventif,Vidange/Révision,84858,1,32098
+MT-00285,WVIT-702,2025-05-21,Entretien préventif,Vidange/Révision,82545,1,39278
+MT-00286,WV-IT-529,2025-05-24,Panne,Électrique/Batterie,68275,1,38851
+MT-00287,WV-IT-567,2025-05-26,Entretien préventif,Vidange/Révision,70767,1,32852
+MT-00288,WV-IT-693,2025-05-31,Entretien préventif,Vidange/Révision,94020,1,34007
+MT-00289,AA-296-TE,2025-05-31,Entretien préventif,Vidange/Révision,25000,1,4396
+MT-00290,WV-IT-564,2025-06-03,Entretien préventif,Vidange/Révision,64325,1,37729
+MT-00291,WV-IT-691,2025-06-04,Entretien préventif,Vidange/Révision,75958,1,38483
+MT-00292,WV-IT-561,2025-06-05,Entretien préventif,Vidange/Révision,88654,1,39027
+MT-00293,AA-733-NW,2025-06-11,Entretien préventif,Vidange/Révision,38519,1,5174
+MT-00294,WVIT-681,2025-06-12,Entretien préventif,Vidange/Révision,102667,1,14206
+MT-00295,WV-IT-517,2025-06-13,Entretien préventif,Vidange/Révision,67456,1,20654
+MT-00296,AA-210-PJ,2025-06-21,Entretien préventif,Vidange/Révision,25000,1,6090
+MT-00297,AA-831-RH,2025-06-25,Entretien préventif,Vidange/Révision,25000,1,6422
+MT-00298,WV-IT-574,2025-06-25,Entretien préventif,Vidange/Révision,70354,1,32653
+MT-00299,WVIT-576,2025-06-26,Entretien préventif,Vidange/Révision,72835,1,18740
+MT-00300,WV-IT-514,2025-06-27,Entretien préventif,Vidange/Révision,65145,1,35111
+MT-00301,WVIT-702,2025-07-02,Panne,Embrayage/Transmission,480551,5,40574
+MT-00302,AA-888-QG,2025-07-03,Entretien préventif,Vidange/Révision,25000,1,5595
+MT-00303,WVIT-701,2025-07-03,Entretien préventif,Vidange/Révision,89841,1,39165
+MT-00304,WV-321,2025-07-05,Entretien préventif,Vidange/Révision,77937,1,18967
+MT-00305,WV-IT-568,2025-07-19,Entretien préventif,Vidange/Révision,84313,1,33500
+MT-00306,WV-IT-527,2025-07-19,Entretien préventif,Vidange/Révision,84501,1,20146
+MT-00307,AA-834-QG,2025-07-19,Entretien préventif,Vidange/Révision,29559,1,5393
+MT-00308,WVIT-699,2025-07-24,Entretien préventif,Vidange/Révision,88151,1,40133
+MT-00309,AA-949-QX,2025-07-29,Entretien préventif,Vidange/Révision,36812,1,5922
+MT-00310,WV-IT-603,2025-07-31,Entretien préventif,Vidange/Révision,25000,1,6368
+MT-00311,WV-IT-529,2025-07-31,Entretien préventif,Vidange/Révision,68907,1,42632
+MT-00312,WV-IT-571,2025-08-04,Entretien préventif,Vidange/Révision,29239,1,5894
+MT-00313,AA-288-QK,2025-08-06,Entretien préventif,Vidange/Révision,34099,1,5772
+MT-00314,AA-155-QY,2025-08-09,Entretien préventif,Vidange/Révision,25000,1,5054
+MT-00315,WV-IT-551,2025-08-12,Entretien préventif,Vidange/Révision,77935,1,34747
+MT-00316,AA-728-RH,2025-08-12,Entretien préventif,Vidange/Révision,25000,1,6201
+MT-00317,WV-IT-570,2025-08-14,Entretien préventif,Vidange/Révision,25000,1,5530
+MT-00318,WV-IT-564,2025-08-15,Entretien préventif,Vidange/Révision,70139,1,43080
+MT-00319,WV-IT-567,2025-08-22,Entretien préventif,Vidange/Révision,69896,1,37973
+MT-00320,WV-IT-693,2025-08-23,Entretien préventif,Vidange/Révision,71799,1,39132
+MT-00321,WV-IT-552,2025-08-26,Entretien préventif,Vidange/Révision,97417,1,31448
+MT-00322,WV-IT-680,2025-08-29,Entretien préventif,Vidange/Révision,101894,1,17694
+MT-00323,WV-IT-552,2025-09-02,Panne,Refroidissement,216825,3,32093
+MT-00324,WV-IT-691,2025-09-02,Entretien préventif,Vidange/Révision,107225,1,43549
+MT-00325,WV-IT-575,2025-09-05,Entretien préventif,Vidange/Révision,80114,1,37317
+MT-00326,WV-IT-514,2025-09-11,Panne,Refroidissement,236047,3,38506
+MT-00327,WV-IT-529,2025-09-19,Panne,Climatisation,66424,1,45037
+MT-00328,WV-IT-551,2025-09-20,Panne,Embrayage/Transmission,551643,5,36188
+MT-00329,AA-840-QG,2025-09-23,Entretien préventif,Vidange/Révision,46014,1,6639
+MT-00330,WVIT-700,2025-09-23,Entretien préventif,Vidange/Révision,82786,1,37202
+MT-00331,WVIT-701,2025-09-24,Entretien préventif,Vidange/Révision,97505,1,44181
+MT-00332,987297,2025-09-25,Entretien préventif,Vidange/Révision,32462,1,5567
+MT-00333,WVIT694,2025-09-25,Entretien préventif,Vidange/Révision,47876,1,34340
+MT-00334,AA-902-QG,2025-09-26,Entretien préventif,Vidange/Révision,36956,1,6135
+MT-00335,WV-IT-604,2025-09-26,Entretien préventif,Vidange/Révision,37434,1,6121
+MT-00336,WV-IT-574,2025-09-27,Entretien préventif,Vidange/Révision,32256,1,37685
+MT-00337,WV-IT-534,2025-09-29,Entretien préventif,Vidange/Révision,101682,1,20094
+MT-00338,WVIT-702,2025-09-30,Entretien préventif,Vidange/Révision,61881,1,44553
+MT-00339,AA-907-QG,2025-10-02,Entretien préventif,Vidange/Révision,29417,1,5861
+MT-00340,AA-425-NX,2025-10-04,Entretien préventif,Vidange/Révision,25000,1,6641
+MT-00341,AA-897-QG,2025-10-04,Entretien préventif,Vidange/Révision,53030,1,6689
+MT-00342,WV-IT-663,2025-10-11,Entretien préventif,Vidange/Révision,37370,1,6253
+MT-00343,AA-345-QK,2025-10-15,Panne,Pneumatique,65580,1,5708
+MT-00344,AA-885-QG,2025-10-14,Entretien préventif,Vidange/Révision,33754,1,6228
+MT-00345,WVIT-699,2025-10-14,Entretien préventif,Vidange/Révision,61690,1,45195
+MT-00346,WV-IT-551,2025-10-16,Panne,Refroidissement,25000,1,37343
+MT-00347,WV-IT-568,2025-10-15,Entretien préventif,Vidange/Révision,93053,1,38528
+MT-00348,AA-892-QG,2025-10-23,Entretien préventif,Vidange/Révision,37570,1,6317
+MT-00349,WV-IT-514,2025-10-27,Entretien préventif,Vidange/Révision,66638,1,40344
+MT-00350,WVIT694,2025-10-28,Panne,Électrique/Batterie,81429,1,36944
+MT-00351,WV-IT-567,2025-10-30,Panne,Refroidissement,202450,1,41709
+MT-00352,WV-IT-561,2025-10-29,Entretien préventif,Vidange/Révision,84998,1,44152
+MT-00353,WV-IT-703,2025-10-31,Entretien préventif,Vidange/Révision,86470,1,24487
+MT-00354,WVIT-699,2025-11-04,Panne,Climatisation,46265,1,46620
+MT-00355,AA-737-NW,2025-11-04,Entretien préventif,Vidange/Révision,26280,1,6202
+MT-00356,WV-IT-688,2025-11-05,Entretien préventif,Vidange/Révision,25000,1,5890
+MT-00357,AA-735-NW,2025-11-05,Entretien préventif,Vidange/Révision,25000,1,7650
+MT-00358,WV-IT-529,2025-11-06,Entretien préventif,Vidange/Révision,73143,1,47839
+MT-00359,WVIT-702,2025-11-08,Panne,Refroidissement,169529,1,49098
+MT-00360,WV-IT-567,2025-11-13,Entretien préventif,Vidange/Révision,67294,1,43007
+MT-00361,WV-IT-551,2025-11-14,Entretien préventif,Vidange/Révision,99724,1,39822
+MT-00362,WV-IT-564,2025-11-18,Entretien préventif,Vidange/Révision,99404,1,48244
+MT-00363,WVIT-702,2025-11-19,Entretien préventif,Vidange/Révision,87419,1,49571
+MT-00364,AA-891-QG,2025-11-20,Entretien préventif,Vidange/Révision,25000,1,6691
+MT-00365,WV-IT-552,2025-11-23,Panne,Suspension,323059,3,35838
+MT-00366,WV-IT-691,2025-11-25,Entretien préventif,Vidange/Révision,86560,1,48703
+MT-00367,WV-IT-693,2025-11-26,Entretien préventif,Vidange/Révision,78832,1,44266
+MT-00368,WVTEST3,2025-11-28,Entretien préventif,Vidange/Révision,78983,1,19674
+MT-00369,WV-IT-665,2025-11-28,Entretien préventif,Vidange/Révision,25000,1,6930
+MT-00370,WV-IT-552,2025-11-29,Entretien préventif,Vidange/Révision,84443,1,36595
+MT-00371,WV-IT-568,2025-12-02,Panne,Freinage,155057,3,41175
+MT-00372,WV-IT-692,2025-12-06,Entretien préventif,Vidange/Révision,70538,1,21586
+MT-00373,WV-IT-637,2025-12-06,Entretien préventif,Vidange/Révision,25000,1,7956
+MT-00374,WV-321,2025-12-09,Entretien préventif,Vidange/Révision,92550,1,24021
+MT-00375,WV-IT-564,2025-12-13,Panne,Climatisation,118886,1,50488
+MT-00376,WVIT-700,2025-12-20,Entretien préventif,Vidange/Révision,106875,1,42204
+MT-00377,AA-934-QX,2025-12-23,Entretien préventif,Vidange/Révision,31339,1,6741
+MT-00378,WV-IT-640,2025-12-24,Panne,Embrayage/Transmission,656442,3,6857
+MT-00379,AA-752-NW,2025-12-25,Entretien préventif,Vidange/Révision,36042,1,7092
+MT-00380,WVIT694,2025-12-26,Entretien préventif,Vidange/Révision,83056,1,39709
+MT-00381,WV-IT-575,2025-12-27,Entretien préventif,Vidange/Révision,84231,1,42524
+MT-00382,AA-280-QK,2025-12-29,Entretien préventif,Vidange/Révision,31868,1,7239
+MT-00383,WV-IT-569,2025-12-30,Entretien préventif,Vidange/Révision,73639,1,22611
+MT-00384,WV-IT-661,2025-12-30,Entretien préventif,Vidange/Révision,25000,1,6910
+MT-00385,WV-IT-685,2025-12-31,Entretien préventif,Vidange/Révision,31618,1,7547
+MT-00386,WV-IT-517,2026-01-01,Entretien préventif,Vidange/Révision,96259,1,25732
+MT-00387,WV-IT-564,2026-01-02,Panne,Refroidissement,136226,2,52160
+MT-00388,AA-986-QX,2026-01-02,Entretien préventif,Vidange/Révision,31157,1,6710
+MT-00389,WV-IT-561,2026-01-06,Entretien préventif,Vidange/Révision,59718,1,49166
+MT-00390,AA-240-PJ,2026-01-08,Panne,Pneumatique,157300,1,7457
+MT-00391,AA-284-QK,2026-01-07,Entretien préventif,Vidange/Révision,38381,1,7235
+MT-00392,WV-IT-529,2026-01-08,Entretien préventif,Vidange/Révision,88499,1,52955
+MT-00393,WVIT-699,2026-01-09,Entretien préventif,Vidange/Révision,120494,1,50331
+MT-00394,WV-IT-564,2026-01-14,Entretien préventif,Vidange/Révision,67868,1,53431
+MT-00395,WV-IT-574,2026-01-19,Entretien préventif,Vidange/Révision,94255,1,42825
+MT-00396,AA-299-TE,2026-01-20,Panne,Moteur,938175,8,6833
+MT-00397,AA-373-QK,2026-01-21,Entretien préventif,Vidange/Révision,25000,1,7193
+MT-00398,WV-IT-578,2026-01-21,Entretien préventif,Vidange/Révision,25000,1,6534
+MT-00399,WV-IT-569,2026-01-23,Panne,Pneumatique,148807,1,22965
+MT-00400,AA-905-QG,2026-01-22,Entretien préventif,Vidange/Révision,25614,1,7304
+MT-00401,WVIT-701,2026-01-22,Entretien préventif,Vidange/Révision,80005,1,49302
+MT-00402,AA-746-NW,2026-01-28,Entretien préventif,Vidange/Révision,36095,1,6955
+MT-00403,WVIT-681,2026-01-29,Panne,Embrayage/Transmission,369876,6,19003
+MT-00404,WV-IT-602,2026-01-31,Entretien préventif,Vidange/Révision,25000,1,7575
+MT-00405,WV-IT-691,2026-01-31,Entretien préventif,Vidange/Révision,82458,1,53804
+MT-00406,WVIT-681,2026-02-14,Entretien préventif,Vidange/Révision,107308,1,19248
+MT-00407,WV-IT-514,2026-02-17,Entretien préventif,Vidange/Révision,77665,1,45478
+MT-00408,AA-340-QK,2026-02-17,Entretien préventif,Vidange/Révision,42460,1,6701
+MT-00409,AA-665-QG,2026-03-04,Entretien préventif,Vidange/Révision,26136,1,7350
+MT-00410,WVIT-576,2026-03-04,Entretien préventif,Vidange/Révision,80896,1,23812
+MT-00411,WV-IT-534,2026-03-07,Entretien préventif,Vidange/Révision,84038,1,25138
+MT-00412,WV-IT-633,2026-03-09,Entretien préventif,Vidange/Révision,25000,1,6907
+MT-00413,WV-IT-527,2026-03-11,Entretien préventif,Vidange/Révision,106632,1,25178
+MT-00414,WV-IT-686,2026-03-11,Entretien préventif,Vidange/Révision,25000,1,7220
+MT-00415,AA-739-NW,2026-03-14,Entretien préventif,Vidange/Révision,25000,1,7030
+MT-00416,WV-IT-568,2026-03-18,Entretien préventif,Vidange/Révision,52335,1,43788
+MT-00417,WV-IT-693,2026-03-18,Entretien préventif,Vidange/Révision,83827,1,49472
+MT-00418,WVIT-700,2026-03-20,Entretien préventif,Vidange/Révision,75886,1,47385
+MT-00419,WV-IT-552,2026-03-21,Entretien préventif,Vidange/Révision,91751,1,41794
+MT-00420,WV-IT-575,2026-03-22,Entretien préventif,Vidange/Révision,79414,1,47668
+MT-00421,WV-IT-561,2026-03-25,Entretien préventif,Vidange/Révision,94577,1,54246
+MT-00422,WV-IT-564,2026-03-25,Entretien préventif,Vidange/Révision,66736,1,58596
+MT-00423,WV-IT-567,2026-03-27,Entretien préventif,Vidange/Révision,82933,1,48061
+MT-00424,WV-IT-660,2026-03-27,Entretien préventif,Vidange/Révision,35152,1,6908
+MT-00425,WV-IT-551,2026-03-28,Entretien préventif,Vidange/Révision,80887,1,44980
+MT-00426,AA-336-QK,2026-03-28,Entretien préventif,Vidange/Révision,28081,1,7229
+MT-00427,WV-IT-680,2026-03-31,Entretien préventif,Vidange/Révision,85497,1,22761
+MT-00428,AA-973-NW,2026-03-31,Entretien préventif,Vidange/Révision,34736,1,7924
+MT-00429,WV-IT-640,2026-04-01,Entretien préventif,Vidange/Révision,25000,1,7778
+MT-00430,WVIT-702,2026-04-02,Entretien préventif,Vidange/Révision,101193,1,54688
+MT-00431,WVIT-699,2026-04-02,Entretien préventif,Vidange/Révision,94036,1,55402
+MT-00432,WV-IT-514,2026-04-08,Panne,Embrayage/Transmission,189457,4,47745
+MT-00433,WV-IT-529,2026-04-07,Entretien préventif,Vidange/Révision,81839,1,58174
+MT-00434,AA-683-NW,2026-04-09,Entretien préventif,Vidange/Révision,25000,1,7605
+MT-00435,WV-IT-572,2026-04-11,Entretien préventif,Vidange/Révision,48417,1,8183
+MT-00436,WVIT694,2026-04-11,Entretien préventif,Vidange/Révision,96755,1,44726
+MT-00437,AA-218-QX,2026-04-14,Entretien préventif,Vidange/Révision,25000,1,8408
+MT-00438,WV-IT-691,2026-04-16,Panne,Embrayage/Transmission,552118,4,58410
+MT-00439,AA-423-NX,2026-04-15,Entretien préventif,Vidange/Révision,25000,1,7549
+MT-00440,WV-IT-664,2026-04-16,Entretien préventif,Vidange/Révision,29684,1,8485
+MT-00441,AA-170-QY,2026-04-17,Entretien préventif,Vidange/Révision,39502,1,7992
+MT-00442,WV-IT-703,2026-04-22,Entretien préventif,Vidange/Révision,73676,1,29530
+MT-00443,AA-865-QG,2026-04-23,Entretien préventif,Vidange/Révision,25000,1,7978
+MT-00444,AA-728-NW,2026-04-25,Panne,Pneumatique,76011,1,8519
+MT-00445,AA-240-PJ,2026-04-25,Entretien préventif,Vidange/Révision,32672,1,8385
+MT-00446,WV-IT-691,2026-04-26,Entretien préventif,Vidange/Révision,109112,1,58957
+MT-00447,WV-IT-551,2026-04-29,Panne,Embrayage/Transmission,588858,6,46293
+MT-00448,WV-IT-662,2026-04-30,Panne,Pneumatique,129092,1,7383
+MT-00449,WVIT-576,2026-05-01,Panne,Refroidissement,119896,1,25144
+MT-00450,WVTEST3,2026-05-07,Entretien préventif,Vidange/Révision,109014,1,24715
+MT-00451,WVIT-701,2026-05-07,Entretien préventif,Vidange/Révision,109288,1,54780
+MT-00452,WV-IT-514,2026-05-08,Entretien préventif,Vidange/Révision,70545,1,50549
+MT-00453,AA-941-QX,2026-05-09,Entretien préventif,Vidange/Révision,25000,1,7892
+MT-00454,WV-IT-574,2026-05-11,Entretien préventif,Vidange/Révision,107432,1,47905
+MT-00455,WV-IT-662,2026-05-13,Entretien préventif,Vidange/Révision,32561,1,7468
+MT-00456,WV-321,2026-05-19,Entretien préventif,Vidange/Révision,71238,1,29045
+MT-00457,AA-846-QG,2026-05-21,Entretien préventif,Vidange/Révision,42903,1,8196
+MT-00458,AA-728-NW,2026-05-28,Entretien préventif,Vidange/Révision,48764,1,8635
+MT-00459,WV-IT-639,2026-05-29,Entretien préventif,Vidange/Révision,39011,1,7601
+MT-00460,WV-IT-529,2026-05-29,Entretien préventif,Vidange/Révision,40882,1,63247
+MT-00461,WV-IT-561,2026-06-03,Entretien préventif,Vidange/Révision,53709,1,59358
+MT-00462,WVIT-700,2026-06-06,Entretien préventif,Vidange/Révision,37023,1,52417
+MT-00463,987298,2026-06-10,Entretien préventif,Vidange/Révision,29506,1,7729
+MT-00464,WV-IT-689,2026-06-17,Entretien préventif,Vidange/Révision,39491,1,8372
+MT-00465,WV-IT-703,2026-06-20,Panne,Électrique/Batterie,96363,1,31219
+MT-00466,WV-IT-565,2026-06-20,Entretien préventif,Vidange/Révision,41275,1,8500
+MT-00467,WV-IT-575,2026-06-24,Entretien préventif,Vidange/Révision,79599,1,52698
+MT-00468,WV-IT-517,2026-06-28,Entretien préventif,Vidange/Révision,110459,1,30765
+MT-00469,WV-IT-585,2026-07-01,Panne,Climatisation,165902,1,8465
+MT-00470,WV-IT-564,2026-07-01,Entretien préventif,Vidange/Révision,81822,1,63884
+MT-00471,WVIT-699,2026-07-04,Entretien préventif,Vidange/Révision,77483,1,60757
+MT-00472,AA-903-QG,2026-07-07,Entretien préventif,Vidange/Révision,33982,1,8574
+MT-00473,WV-IT-636,2026-07-10,Entretien préventif,Vidange/Révision,26654,1,8346
+MT-00474,AA-814-QG,2026-07-10,Entretien préventif,Vidange/Révision,25000,1,8869
+MT-00475,AA-286-TE,2026-07-11,Entretien préventif,Vidange/Révision,25000,1,8612
+MT-00476,WV-IT-517,2026-07-16,Panne,Climatisation,203990,1,31480
+MT-00477,WVIT-702,2026-07-17,Entretien préventif,Vidange/Révision,89542,1,60046
+MT-00478,AA-299-TE,2026-07-18,Entretien préventif,Vidange/Révision,33227,1,8216
+MT-00479,WV-IT-569,2026-07-21,Entretien préventif,Vidange/Révision,73383,1,27704
+MT-00480,AA-748-NW,2026-07-22,Entretien préventif,Vidange/Révision,25000,1,8663
+MT-00481,WV-IT-568,2026-07-25,Entretien préventif,Vidange/Révision,109918,1,48897
+MT-00482,WVIT-701,2026-07-28,Entretien préventif,Vidange/Révision,95547,1,59960
+MT-00483,WV-IT-638,2026-07-29,Entretien préventif,Vidange/Révision,40319,1,8492
+MT-00484,WV-IT-552,2026-07-31,Entretien préventif,Vidange/Révision,84325,1,46852
+MT-00485,AA-658-NW,2026-07-31,Entretien préventif,Vidange/Révision,28945,1,9184
+MT-00486,WVIT-681,2026-07-31,Entretien préventif,Vidange/Révision,87309,1,24414
+MT-00487,WV-IT-567,2026-08-01,Entretien préventif,Vidange/Révision,70967,1,53216
+MT-00488,WV-IT-692,2026-08-02,Entretien préventif,Vidange/Révision,96474,1,26703
+MT-00489,WV-IT-585,2026-08-02,Entretien préventif,Vidange/Révision,25000,1,8666
+MT-00490,WV-IT-691,2026-08-02,Entretien préventif,Vidange/Révision,80895,1,64349
+MT-00491,WV-IT-551,2026-08-04,Entretien préventif,Vidange/Révision,89071,1,50106
+MT-00492,AA-979-QX,2026-08-04,Entretien préventif,Vidange/Révision,28955,1,8437
+MT-00493,AA-345-QK,2026-08-06,Entretien préventif,Vidange/Révision,62982,1,7740
+MT-00494,WV-IT-693,2026-08-06,Entretien préventif,Vidange/Révision,74196,1,54599

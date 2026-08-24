@@ -1,0 +1,139 @@
+staff_id,nom_complet,email,departement,fonction,telephone,centre_service,localite,roles,date_permis,actif
+10008997,Anne Marie Catherine DIOUF,AnneMarie_Diouf@wvi.org,People & Culture,P&C Systems Coordinator,+221 (77) 5452671,Dakar,Bureau National,User,16/02/2000,Oui
+10012157,Manlafi Alain Bruno COLY,manlafi_coly@wvi.org,Operations,Specialist Monitoring & Evaluation,+221 (77) 152 69 35,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10024437,Joseph Tama Bidiar,joseph_bidiar@wvi.org,Communication,Communication Officer,+221 (77) 184 97 80,Fatick,Zone Centre,User,16/02/2000,Oui
+10027844,Agathe Nimo ,Agathe_Nimo_Sarr@wvi.org,Administration,Logistique & Events Assistant,+221 (77) 523 57 84,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027845,Seloame Koku Amenyo,Seloame_Koku_Amenyo@wvi.org,Operations,HEA  MANAGER,+221 (33) 8259449,Koungheul,Zone Centre,User,16/02/2000,Oui
+10027846,Marc Clément Désiré Sambou,Marc_Sambou@wvi.org,ICT,ICT Coordinator,221 (77) 649 78 79,Tamba,Zone Centre,Gestionnaire,16/02/2000,Oui
+10027847,Daniel NDIAYE,Daniel_Ndiaye@wvi.org,ICT,ICT Manager,+221 (77) 6536064,Dakar,Bureau National,Approbateur,16/02/2000,Oui
+10027848,Japhet SAMBA,Japhet_Samba@wvi.org,ICT,ICT Coordinator,+221 (77) 3604501,Dakar,Bureau National,"Approbateur,Admin",16/02/2000,Oui
+10027853,Cécile Marie Khady NGOM,Cecile_Marie_Ngom@wvi.org,Finance,Finance Coordinator,+221 (77) 6116752,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027855,Fernand Bernard Badji,Fernand_Badji@wvi.org,Finance,Senior Finance Manager,+221 (77) 5345364,Dakar,Bureau National,User,16/02/2000,Oui
+10027858,Gabriel Pascal DIOUF,Gabriel_Pascal_Diouf@wvi.org,Sponsorship,Sponsorship System Coordinator,+221 (78) 2797884,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027863,Viviane Sokhna Faye CARRERA,viviane_carrera@wvi.org,Faith & Development,Faith & Development Manager ,+221 (77) 5416765,Fatick,Zone Centre,User,16/02/2000,Oui
+10027865,Alpha DIA,Alpha_Dia@wvi.org,Operations,"Design, Monitoring, Evaluation, Accountability and Learning (DMEAL) and Risk Management Advisor",+221 (77) 1607092,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027878,Alassane LEYE,alassane_leye@wvi.org,Operations,Chauffeur,+221 (77) 5357536,Koungheul,Zone Centre,User,16/02/2000,Oui
+10027889,Amadou Tidiane Diallo,Amadou_Tidiane_Diallo@wvi.org,Administration,Chauffeur,+221 (77) 6583659,Tamba,Zone Centre,Chauffeur,16/02/2000,Oui
+10027890,Joseph Camille Gueidje,joseph_ndong@wvi.org,RAM,RAM Officer ,+221 (77) 5408283,Kolda,Zone Sud,User,16/02/2000,Oui
+10027906,Emmanuel Yvon Bama,Yvon_Bama@wvi.org,ICT ,Administrator Network/Telecommunications,+221 (77) 5452473,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027911,Marie Madeleine Sarr,Marie_Madelaine_Sarr@wvi.org,Finance,Comptable,+221 (77) 5424522,Dakar,Bureau National,User,16/02/2000,Oui
+10027924,Crépin Raoul Edwige Louhoungou,Crepin_Louhoungou@wvi.org,Operations,Strategy and Learning Manager,+221 (76) 6444178,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027931,Pape Samba Dembele,pape_dembele@wvi.org,Administration,Chauffeur,+221 (77) 463 62 20,Fatick,Zone Centre,Chauffeur,16/02/2000,Oui
+10027933,Aliou Ka,Aliou_Ka@wvi.org,Administration,Driver and Logistiques Support,+221 (78) 184 42 75,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027937,Alain Waly Faye,Alain_Waly_Faye@wvi.org,Finance,Comptable,+221 (77) 4350830,Koungheul,Zone Centre,User,16/02/2000,Oui
+10027940,Balla Fall Niang,Balla_Fall_Niang@wvi.org,Operations,Advocacy Manager,+221 (77) 5530900,Tamba,Zone Centre,User,16/02/2000,Oui
+10027942,Andre A. A. Badara Seye,Andre_Seye@wvi.org,Finance,Grant Finance Manager,+221 (76) 6444166,Kolda,Zone Sud,User,16/02/2000,Oui
+10029834,Adji Dieynaba Niang,Adji_Coly@wvi.org,Operations,Specialist Monitoring & Evaluation,+221 (77) 5351401,Tanaf,Zone Sud,User,16/02/2000,Oui
+10030574,Pierre Daly SENE,Pierre_Daly_Sene@wvi.org,Operations,Senior Manager CESP,+221 (77) 2793622,Dakar,Bureau National,User,16/02/2000,Oui
+10031387,Fatimata Birasse Ba,fatimata_ba@wvi.org,Supply Chain,Supply Chain Advisor,+221 (77) 4640585,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10031457,Paul Waly Diouf,paul_waly_diouf@wvi.org,Operations,Health Manager ,+221 (77) 5659765,Fatick,Zone Centre,User,16/02/2000,Oui
+10039527,Anne Marie Odette Ndiaye,odette_ndiaye@wvi.org,Supply Chain,Supply Chain Coordinator,+221 (78) 5331450,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10047524,Komla Hanson Masro,komla_masro@wvi.org,Communication,Communication Manager,+227 (80) 074379,Koungheul,Zone Centre,User,16/02/2000,Oui
+10049198,Gisèle MASIKA SENGE,gisele_senge@wvi.org,Operations,Projet Coordinator UE,+221 (77) 7013806,Tamba,Zone Centre,User,16/02/2000,Oui
+10059026,MANE SENE,mane_sene@wvi.org,Operations,Projet Coordinator WASH,+221 (77) 3542307,Kolda,Zone Sud,User,16/02/2000,Oui
+10061813,Gertrude Anaïs Géma DIANDY,gertrude_diandy@wvi.org,DN,Executive Support & Governance Officer ,+221 (77) 6599680,Tanaf,Zone Sud,User,16/02/2000,Oui
+10000248,Jean Claude Niambo DIOUF,JeanClaude_Diouf@wvi.org, Tamba Cluster,Livelihood Specialist,+221 (77) 3714438,Dakar,Bureau National,User,16/02/2000,Oui
+10001435,Antoine Filbert Kanfom,antoine_kanfom@wvi.org,Thrive Project,Chauffeur,+221 (77) 6156955,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10006828,Abdoulaye Mané Diouf,Abdoulaye_Mane_Diouf@wvi.org, Koungheul Cluster,Health Specialiste,+221 (77) 4636869,Fatick,Zone Centre,User,16/02/2000,Oui
+10007877,Charles BASSENE,Charles_Bassene@wvi.org, Kaffrine Cluster,Chauffeur,+221 (77) 4872014,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10015680,Ibou Yacine SINE,Ibou_Sine@wvi.org,Pings Project,Comptable,221 (77) 2190619,Koungheul,Zone Centre,User,16/02/2000,Oui
+10018233,Denis Samba DIOP,Denis_Diop@wvi.org, Kaffrine Cluster,CESP Specialist,+221 (77) 7184009,Tamba,Zone Centre,User,16/02/2000,Oui
+10018237,Yaye Deguene DIOP,Yaye_Deguene_Diop@wvi.org,Thrive Project,Officer Monitoring & Evaluation,+221 (77) 5710686,Kolda,Zone Sud,User,16/02/2000,Oui
+10018253,Marianne Gabrielle Sarr,Marianne_Sarr@wvi.org, Tamba Cluster,Zonal Sponsorship Assistant,+221 (77) 2763986,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027864,Laye DIATTA,Laye_Diatta@wvi.org, Tamba Cluster,Specialist Sponsorship Operations,+221 (77) 5191726,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027866,Sarata Djiba,Sarata_Djiba@wvi.org, Koungheul Cluster,"Specialist III-N, Zonal Sponsorship Operations",+221 (77) 5776768,Dakar,Bureau National,User,16/02/2000,Oui
+10027869,Anna Daba NDIAYE,anna_daba_ndiaye@wvi.org,Paferceau Project,Projet Coordinator Paferceau,+221 (77) 4110733,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027870,Catherine Mathe,Catherine_Sambou@wvi.org, Tamba Cluster,Specialist Zonal Sponsorship Operations,+221 (77) 6130916,Fatick,Zone Centre,User,16/02/2000,Oui
+10027871,Marie Louise DIOUF,Marie_Louise_Diouf@wvi.org,Operations,Senior Manager Programs & Awards,+221 (33) 9492300,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027877,Youssouph DIEME,youssouf_dieme@wvi.org,Wash Project,Chauffeur,+221 (77) 5794860,Koungheul,Zone Centre,User,16/02/2000,Oui
+10027884,François DIOUF,Francois_Abdoulaye_Diouf@wvi.org,Finance,Comptable,+221 (77) 9148477,Tamba,Zone Centre,User,16/02/2000,Oui
+10027886,Maurice SENE,Maurice_Sene@wvi.org,Faith & Development,F&D officer,+221 (77) 5605921,Kolda,Zone Sud,User,16/02/2000,Oui
+10027887,Marie Tening SENE,Marie_Tening@wvi.org, Koungheul Cluster,Zonal Coordinator People & Culture,+221 (77) 5775253,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027891,Samba GNING,Samba_Gning@wvi.org,Pings Project,Programs Manager,+221 (77) 5787100,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027894,Gabriel NDIAYE,gabriel_ndiaye@wvi.org,Pings Project,Finance Coordinator,+221 (77) 5436286,Dakar,Bureau National,User,16/02/2000,Oui
+10027896,Rose Mbom FAYE,Rose_Faye@wvi.org,Pings Project,Comptable,+221 (77) 4972765,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027900,Pata Bianquinch,pata_bianquinch@wvi.org, Koungheul Cluster,CESP specialist,+221 (77) 4638061,Fatick,Zone Centre,User,16/02/2000,Oui
+10027910,Béatrice TINE,Beatrice_Tine@wvi.org,Finance,Comptable,+221 (77) 5489252,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027917,Mamadou DEMBELE,Mamadou_Dembele@wvi.org,Pings Project,Chauffeur,+221 (70) 6998768,Koungheul,Zone Centre,User,16/02/2000,Oui
+10027927,Eugène GOMIS,eugene_gomis@wvi.org, Kaffrine Cluster,Education Specialist,+221 (77) 6086789,Tamba,Zone Centre,User,16/02/2000,Oui
+10027935,Agnès GNING,Agnes_Gning@wvi.org, Tamba Cluster,Programs Manager,+221 (77) 5108692,Kolda,Zone Sud,User,16/02/2000,Oui
+10027936,Pierre Tatiana NDIONE,Pierre_Tatiana_Ndione@wvi.org, Koungheul Cluster,Specialiste Livelihood,+221 (76) 2583743,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027938,Sara BA,sara_ba@wvi.org,Wash Project,Coordinateur Wash,+221 (77) 6495059,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027941,Albert TESSOLO,Albert_Tessolo@wvi.org, Kaffrine Cluster,Specialist Monitoring & Evaluation,+221 (77) 5589233,Dakar,Bureau National,User,16/02/2000,Oui
+10027943,Seydou DEMBA,Seydou_Demba@wvi.org,Operations,Programs Manager,+221 (77) 6579949,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027948,Theophile COLY,Theophile_Coly@wvi.org,Thrive Project,Coordinator Grant Finance,+221 (76) 5422161,Fatick,Zone Centre,User,16/02/2000,Oui
+10027950,Thioumbane NDIAYE,Thioumbane_ndiaye@wvi.org, Kaffrine Cluster,Livelihood specialist,+221 (77) 6316773,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10030540,Fatou MBOW,Fatou_Mbow@wvi.org, Kaffrine Cluster,Zonal Sponsorship Coordinator,+221 (77) 5090333,Koungheul,Zone Centre,User,16/02/2000,Oui
+10031382,Stéphane Benoit Niowy BOP,stephane_bop@wvi.org, Tamba Cluster,Health Specialiste,+221 (77) 2772132,Tamba,Zone Centre,User,16/02/2000,Oui
+10031656,Côme NDOUR,come_ndour@wvi.org,Thrive Project,Livelihood & Resilience Technical Programme Manager,+221 (77) 5766967,Kolda,Zone Sud,User,16/02/2000,Oui
+10033085,Jean de Dieu NGOUALA,Jean_deDieu_Ngouala@wvi.org,Thrive Project,Coordinator Faith & Development,+221 (77) 4931149,Tanaf,Zone Sud,User,16/02/2000,Oui
+10036821,Boubacar BALDE,boubacar_balde@wvi.org, Tamba Cluster,Specialist Sponsorship Operations,+221 (77) 6161676,Oussouye,Zone Sud,User,16/02/2000,Oui
+10036786,El Hadji CORREA,elhadji_correa@wvi.org, Koungheul Cluster,Specialiste Education,+221 (77) 7840939,Dakar,Bureau National,User,16/02/2000,Oui
+10038516,WILFRIED ALIOU SAMBOU,wilfried_sambou@wvi.org,Paferceau Project,Specialist Monitoring & Evaluation,+221 (77) 0501493,Kedoudou,Zone Centre,User,16/02/2000,Oui
+10039677,Issa BA,issa_ba@wvi.org, Kaffrine Cluster,Zonal Sponsorship Assistant,+221 (78) 2651700,Fatick,Zone Centre,User,16/02/2000,Oui
+10040650,Cecile Ndame FAYE,cecile_faye@wvi.org,O wood Project,Facilitator Nutrition,+221 (77) 3000432,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10047185,Abdou DIARRA,abdou_diarra@wvi.org,Thrive Project,Officer Livelihood,+221 (77) 2969805,Koungheul,Zone Sud,User,16/02/2000,Oui
+10047187,Abdoul Wahab NDIAYE,abdoul_wahab_ndiaye@wvi.org,Thrive Project,"Coordinator, Commodity Tracking System",+221 (77) 7129403,Tamba,Zone Centre,User,16/02/2000,Oui
+10047682,Baye Alhadji NIANG,baye_niang@wvi.org,Thrive Project,Specialist Monitoring & Evaluation,221 (77) 6753776,Kolda,Zone Sud,User,16/02/2000,Oui
+10047836,Omar SARR,omar_sarr@wvi.org, Koungheul Cluster,Assistant Sponsorship Business Systems,+221 (77) 8868252,Tanaf,Zone Sud,User,16/02/2000,Oui
+10051024,Beatrice DIONE,beatrice_dione@wvi.org,Thrive Project,Specialiste GE/WEE,+221 (78) 4478913,Oussouye,Zone Sud,User,16/02/2000,Oui
+10051191,MARIE SAGNA,marie_sagna@wvi.org,Paferceau Project,Officer Livelihood,+221 (77) 8315091,Dakar,Bureau National,User,16/02/2000,Oui
+10051315,Germaine Bigué DIONE,germaine_dione@wvi.org,Thrive Project,"Coordinator , Commodity Tracking System",221 (77) 3480002,Kedoudou,Zone Centre,User,16/02/2000,Oui
+10055807,michel SAMBOU,michel_sambou@wvi.org, Tamba Cluster,Chauffeur,+221 (77) 1591069,Fatick,Zone Centre,User,16/02/2000,Oui
+10055844,Ousseynou WADE,ousseynou_wade@wvi.org, Koungheul Cluster,Chauffeur,+221 (77) 5165343,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10049975,Christiane Januaria Hélène Diayi DIOP,christiane_diop@wvi.org,ICT ,Zonal IT Coordinator,+221 (77) 8085509,Koungheul,Zone Sud,User,16/02/2000,Oui
+10067883,Saliou ndiassé BAKHOUM,saliou_bakhoum@wvi.org,Thrive Project,Officer Livelihood Thrive Kaffrine,+221 (77) 7201982,Tamba,Zone Centre,User,16/02/2000,Oui
+10068156,Mamadou Moustapha DIOP,mamadou_diop@wvi.org,Thrive Project,Officer Livelihood Thrive Koungheul,+221 (78) 5433848,Kolda,Zone Sud,User,16/02/2000,Oui
+10036196,Ahmad TANDIA,ahmad_tandia@wvi.org,Opération,Zonal Sponsorship Assistant ,+221 (77) 4357525,Tanaf,Zone Sud,User,16/02/2000,Oui
+10031385,Aimé Seyni WADE,aime_wade@wvi.org,Opération,Livelihood Specialist,+221 (77) 6472692,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027915,Aliou FOFANA,Aliou_Fofana@wvi.org,Opération,CESP Specialist,+221 (77) 4638124,Dakar,Bureau National,User,16/02/2000,Oui
+10027945,Aliou TINE,aliou_tine@wvi.org,Opération,chauffeur,+221 (77)4635217,Kedoudou,Zone Centre,User,16/02/2000,Oui
+10047186,Aloise Boucar NGOM,aloise_ngom@wvi.org,Opération,Officer Livelihood,+221 (77) 2947616,Fatick,Zone Centre,User,16/02/2000,Oui
+10049118,Alpha MACALOU,alpha_macalou@wvi.org,Opération,Zonal Sponsorship Assistant ,+221 (77) 7941970,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027892,Alphousseyni SANE,Alphousseyni_Sane@wvi.org,Opération,Chauffeur,+221 (77) 5447670,Koungheul,Zone Sud,User,16/02/2000,Oui
+10032763,Anasthasie Téning DIOUF,anasthasie_diouf@wvi.org,Opération, Zonal Sponsorship Coordinator,+221 (77) 4238971,Tamba,Zone Centre,User,16/02/2000,Oui
+10029841,Angélie Claudine K MPAMY,Angelie_Mpamy@wvi.org,Finance,Comptable,+221 (77)5788777,Kolda,Zone Sud,User,16/02/2000,Oui
+10027934,Anne Marie Mama FOSTER,AnneMarie_Forster@wvi.org,Opération,CESP Specialist,+221 (77) 5398351,Tanaf,Zone Sud,User,16/02/2000,Oui
+10033449,Apollinaire DIEDHIOU,Apollinaire_Diedhiou@wvi.org,Opération,CESP Specialist,+221 (77) 6234456,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027903,Bemba Diamé KABA,bemba_kaba@wvi.org,DN,Chauffeur,+221 (77) 5246647,Dakar,Bureau National,Chauffeur,16/02/2000,Oui
+10059603,Cédric Zidabou YANKINE,cedric_yankine@wvi.org,Administration,Cordinator Supply Chain ,+221 (77) 7333961,Kedoudou,Zone Centre,User,16/02/2000,Oui
+10027883,Cheikh NGOM,Cheikh_Tidiane_Ngom@wvi.org,Finance,Finance Coordinator,+221 (77) 5067964,Fatick,Zone Centre,User,16/02/2000,Oui
+10027867,Cheikh Ndep SENE,Cheikh_Sene@wvi.org,Opération,Specialist  Monitoring & Evaluation,+221 (77) 5661137,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10008535,Diakaria BODIAN,Diakaria_Bodian@wvi.org,Administration,Coordinateur Administration,+221 (77) 6404863,Koungheul,Zone Sud,User,16/02/2000,Oui
+10029835,Diarietou DIAO,Diaretou_Diao@wvi.org,Opération,Education/Child protection Specialist,+221 (77) 5673567,Tamba,Zone Centre,User,16/02/2000,Oui
+10007464,DIATTA KANE,Diatta_Kane@wvi.org,Opération,Wash coodinator,+221 (70) 6811092,Kolda,Zone Sud,User,16/02/2000,Oui
+10027922,Djibril SOUMBOUNDOU,Djibril_Soumboundou@wvi.org,Opération,CESP Specialist,+221 (77) 6573722,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027918,Famara BASSENE,Famara_Bassene@wvi.org,Opération,Programs Manager,+221 (77) 6313283,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027952,François THIAKANE,Francois_Thiakane@wvi.org,Administration,chauffeur,+221 (77) 4635478,Dakar,Bureau National,User,16/02/2000,Oui
+10024567,Gilles Maissa DIONE,gilles_dione@wvi.org,Finance,Comptable,+221 (77) 9849510,Kedoudou,Zone Centre,User,16/02/2000,Oui
+10027916,Ibrahima DIAO,ibrahima_Diao@wvi.org,Opération,Education/Child protection Specialist,+221 (77) 3710205,Fatick,Zone Centre,User,16/02/2000,Oui
+10027898,Idrissa MBOW,Idrissa_Mbow@wvi.org,Opération,Chauffeur,+221 (77) 5165862,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027895,Jean Christian MENDY,Christian_Mendy@wvi.org,Finance,Finance Coordinator,+221 (77) 4230481,Koungheul,Bureau National,User,16/02/2000,Oui
+10008711,Jean Pierre SAGNA,Jean-Pierre_Sagna@wvi.org,ICT ,Zonal ICT Coordinator,+221 (77) 2406429,Tamba,Zone Centre,User,16/02/2000,Oui
+10027857,Jeannette Aline SANE,Jeannette_Sane@wvi.org,Finance,Comptable,+221 (77) 5560972,Kolda,Zone Sud,User,16/02/2000,Oui
+10027932,Joseph DIEDHIOU,Joseph_Diedhiou@wvi.org,Opération,Operation Manager,+221 (76) 6444245,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027868,Jules Charles Adama MANE,Jules_Charles_Mane@wvi.org,Opération,Programs Manager,+221 (77) 5168352,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027939,Kéba KANE,Keba_Kane@wvi.org,Opération,Chauffeur,+221 (77) 5030516,Dakar,Bureau National,User,16/02/2000,Oui
+10027947,Khadidiatou DRAME,Khadidiatou_Drame@wvi.org,Opération,CESP Specialist,+221 (77) 5560815,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027912,Lambert DIEDHIOU,Lambert_Diedhiou@wvi.org,P&C,P&C Manager,+221 (77) 3122680,Fatick,Zone Centre,User,16/02/2000,Oui
+10027901,Mamadou DIOUF,Mamadou_Diouf1@wvi.org,Opération,Zonal Sponsorship Coordinator,+221 (77) 5641592,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027930,Mamady SAMATE,Mamady_Samate@wvi.org,Opération, Zonal Sponsorship Coordinator,+221 (77) 5383686,Koungheul,Zone Sud,User,16/02/2000,Oui
+10018251,Marcel BASSE,Marcel_Basse@wvi.org,Opération,Education/Child Protection Specialist,+221 (77) 1561157,Tamba,Zone Centre,User,16/02/2000,Oui
+10031384,Marie Catherine DIADHIOU,MarieCatherine_Diadhiou@wvi.org,Opération,Zonal Sponsorship Coordinator,+221 (77) 5684681,Kolda,Zone Sud,User,16/02/2000,Oui
+10050097,Marie Madeleine MANSAL,marie-madeleine_mansal@wvi.org,P&C,Zonal Coordinator People & Culture,+221 (77) 6131738,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027874,Martial NDIONE,Martial_Koumane_Ndione@wvi.org,Opération,Programs Manager,+221 (77) 5609918,Oussouye,Zone Sud,User,16/02/2000,Oui
+10043621,Mbaye BA,mbaye_ba@wvi.org,Opération,Livelihood Specialist,+221 (77) 1149080,Dakar,Bureau National,User,16/02/2000,Oui
+10032917,Némoine Banio GOMIS,Nemoine_Gomis@wvi.org,Finance,Comptable ,+221 (77) 5601511,Kedoudou,Zone Sud,User,16/02/2000,Oui
+10027905,Nicodème Diogoye NDIAYE,Nicodeme_Ndiaye@wvi.org,Opération,Programs Manager,+221 (77) 6182186,Fatick,Zone Centre,User,16/02/2000,Oui
+10027904,Ousmane Tabara BA,Ousmane_Ba@wvi.org,Opération,CESP Specialist,00221 77 4638998,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10027929,Ousseynou DIOUF,Ousseynou_Diouf@wvi.org,Opération,Coordinateur Zonal Santé/Nutrition,+221 (77) 5081143,Koungheul,Zone Sud,User,16/02/2000,Oui
+10030551,Patrice Houkuile DIEDHIOU,patrice_diedhiou@wvi.org,Opération,Livelihood Specialist,+221 (77) 4639033,Tamba,Zone Centre,User,16/02/2000,Oui
+10049120,Paulina MENDES,paulina_mendes@wvi.org,Opération,Zonal Sponsorship Assistant ,+221 (77) 7952390,Kolda,Zone Sud,User,16/02/2000,Oui
+10035116,Roland Sylva MENDY,roland-sylva_mendy@wvi.org,Finance,Comptable,+221 (77) 2639930,Tanaf,Zone Sud,User,16/02/2000,Oui
+10027926,Sadio NIANE,Sadio_Niane@wvi.org,Opération,Zonal Sponsorship Assistant ,+221 (77) 8309392,Oussouye,Zone Sud,User,16/02/2000,Oui
+10027902,Seynabou DIOP,Seynabou_Diop@wvi.org,Opération, Zonal Sponsorship Coordinator,+221 (76) 5621980,Dakar,Bureau National,User,16/02/2000,Oui
+10033573,Therance DIEDHIOU,therance_diedhiou@wvi.org,Opération,Chauffeur,+221 (77) 5390500,Kedoudou,Zone Centre,User,16/02/2000,Oui
+10030018,Marie SARR,marie_sarr@wvi.org,Finance,Finance Coordinator,+221 (77) 7953679,Fatick,Zone Centre,User,16/02/2000,Oui
+10071370,Benoit Martin DIOUF,benoit_diouf@wvi.org,Opération,Chauffeur,+221 (77) 7953679,Kaffrine,Zone Centre,User,16/02/2000,Oui
+10057834,Martin DIEME,martin_dieme@wvi.org,Opération,Specialist Monitoring & Evaluation,+221 (77) 7953679,Koungheul,Zone Sud,User,16/02/2000,Oui
+10057564,Mouhamadane DIENG,mouhamadane_dieng@wvi.org,Opération,Surperviseur Cash for Education Unicef,+221 (77) 7953679,Tamba,Zone Centre,User,16/02/2000,Oui
