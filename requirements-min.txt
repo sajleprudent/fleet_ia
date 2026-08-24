@@ -1,0 +1,9 @@
+# Dépendances minimales — Itérations 1 & 2 (données + maintenance prédictive)
+# Installation rapide, compatible Windows sans compilateur
+
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0
+scikit-learn>=1.3
+xgboost>=2.0
+joblib>=1.3

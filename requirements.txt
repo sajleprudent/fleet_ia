@@ -1,0 +1,27 @@
+# Fleet-IA — Système intelligent de gestion prédictive de flotte
+# Python >= 3.10
+
+# Données
+pandas>=2.0
+numpy>=1.24
+
+# Machine Learning (itérations 2-3)
+scikit-learn>=1.3
+xgboost>=2.0
+lifelines>=0.28
+shap>=0.44
+
+# Séries temporelles (itération 4)
+prophet>=1.1
+
+# Optimisation (itération 4)
+ortools>=9.8
+
+# Dashboard & API (itération 5)
+streamlit>=1.30
+plotly>=5.18
+fastapi>=0.109
+uvicorn>=0.27
+
+# Connexion SharePoint (déploiement réel)
+Office365-REST-Python-Client>=2.5
