@@ -23,5 +23,7 @@ plotly>=5.18
 fastapi>=0.109
 uvicorn>=0.27
 
+openpyxl
+
 # Connexion SharePoint (déploiement réel)
 Office365-REST-Python-Client>=2.5
