@@ -44,7 +44,7 @@ WV_ROUGE = "#E2231A"      # rouge de la marque
 WV_ORANGE = "#F58220"     # orange de la marque
 WV_TITRE = "#C2570A"      # orange assombri : lisible en gros titres
 NAV_FONCE = "#7E3410"     # terre brûlée pour la navigation
-APP_VERSION = "v10.6"
+APP_VERSION = "v10.7"
 st.set_page_config(page_title="Fleet-IA — World Vision Sénégal",
                    page_icon="🚙", layout="wide")
 
@@ -996,6 +996,19 @@ def page_predictions(d):
     snap = df[df.date_snapshot == df.date_snapshot.max()].copy()
     s = pipe.predict_proba(snap[FEATURES_NUM + FEATURES_CAT])[:, 1]
     snap["risque"] = calib.predict_proba(s.reshape(-1, 1))[:, 1]
+
+    # Le fichier de variables est produit par le script d'entraînement à
+    # partir des données brutes : ses libellés n'ont pas été normalisés et
+    # « ZONE SUD » y coexiste avec « Zone Sud ». On reprend donc la
+    # localité du référentiel véhicules, qui fait foi et reste à jour, et
+    # l'on normalise ce qui n'aurait pas de correspondance.
+    veh_ref = d.get("vehicules")
+    if veh_ref is not None and "localite" in veh_ref.columns:
+        ref = veh_ref.drop_duplicates("vehicule_id")
+        corresp = ref.set_index(ref.vehicule_id.astype(str)).localite
+        snap["localite"] = (snap.vehicule_id.astype(str).map(corresp)
+                            .fillna(snap.localite))
+    snap = normaliser_libelles(snap)
 
     st.caption(f"Analyse au {df.date_snapshot.max().date()} — "
                f"{len(snap)} véhicules actifs · modèle : régression logistique "
